@@ -67,6 +67,6 @@ or downlode zip file
 
 ## Requirements
 
-See [requirements.txt](requirements.txt) for the list of dependencies.
+See [requirements.txt](requirement.txt) for the list of dependencies.
 
 ---
