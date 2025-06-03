@@ -26,6 +26,13 @@ auto_attendence/
 └── requirements.txt   # Python dependencies
 ```
 
+## How to install 
+```
+git clone https://github.com/User719-blip/auto_attendence.git
+```
+or downlode zip file
+
+
 ## How to Use
 
 1. **Install Requirements**
